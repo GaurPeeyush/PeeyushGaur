@@ -1,2 +1,2 @@
 # PeeyushGaur
-This is my Persinal Website
+This is my Personal Website
